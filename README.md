@@ -1,4 +1,5 @@
 # TheGamingRoom
 Gaming room Software design document
 
+This was a school project which had us stepping into the role of a developer making reccomendations on multiplaform capabilities.
 The Gaming Room client had developed a game that is available to Android devices. They requested my expertise and reccomendations for developing a Cloud-based multi-platform application within budget constraints. This document clearly describes the challenges, benefits, costs and requirements of both using a developing a cloud based service compared to using/developing the service for traditional operating systems. Working through the design document helped me to understand the mindset of the client, the needs of the client, and helped me to mitigate any concerns or issues the client may have. Ive interpreted the user's needs in the document and considered them when making my recommendations. I approched designing the software by considering the client and users needs, what would give the best cost, performance, and overall experience for both the client and users.
